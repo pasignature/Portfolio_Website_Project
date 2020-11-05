@@ -1,5 +1,5 @@
 <?php
-// error_reporting(0);
+error_reporting(0);
 
 //import database connection
 require_once("../action_scripts/pdoconnection.php");
