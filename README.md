@@ -3,7 +3,7 @@
 :star: Star me on GitHub — it helps. Thanks!  
 
 This project is a Personal Portfolio website for Andrew Godwin. It's aim is to create a professional creative medium to tell Andrew's career story and showcase his skills, works and experience.
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/top_cover.png)
+![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/top_cover.png)
 
 ### PROJECT TYPE
 The website is of a single page architecture (SPA). A single parent page layed out in sections with each section acting as a page in same parent page. Sections are ordered according to our MVP user stories. The website is fully responsive and mobile friendly.
@@ -23,19 +23,19 @@ The website is of a single page architecture (SPA). A single parent page layed o
 
 ### The home page section
 This is where users/visitors land when they first browse to the portfolio website at the registered domain name www.andrew-godwin.com  
-[![home.png](https://andrew-godwin/engine_room/images/home.png)
+![home.png](https://andrew-godwin/engine_room/images/home.png)
 
 ### About me section
 This section contains a brief but detailed introduction about me; who I am, what I do and what  I can offer.  
-[![about.png](https://andrew-godwin/engine_room/images/about.png)
+![about.png](https://andrew-godwin/engine_room/images/about.png)
 
 ### Resume section
 This area showcases my resume for site visitors to peruse and find out more details about me, what I have done, been doing and doing currently.  
-[![resume.png](https://andrew-godwin/engine_room/images/resume.png)
+![resume.png](https://andrew-godwin/engine_room/images/resume.png)
 
 ### Portfolio of projects
 This section showcases porjects that I have been involved in the past and things I am doing presently.  
-[![portfolio.png](https://andrew-godwin/engine_room/images/portfolio.png)
+![portfolio.png](https://andrew-godwin/engine_room/images/portfolio.png)
 
 ### Areas of expertise
 A snapshot insight at a glance of areas I am good at.  
@@ -43,11 +43,11 @@ A snapshot insight at a glance of areas I am good at.
 
 ### Blogs section
 This section features a kind of symbolic-links to different industry-related blog posts I create with my free and spare times.  
-[![blog.png](https://andrew-godwin/engine_room/images/blog.png)
+![blog.png](https://andrew-godwin/engine_room/images/blog.png)
 
 ### The contact me section
 This is where site users or visitors can get in contact with me for any type of engagements.  
-[![contact.png](https://andrew-godwin/engine_room/images/contact.png)
+![contact.png](https://andrew-godwin/engine_room/images/contact.png)
 
 ### License
 This project is licensed under the MIT license.
