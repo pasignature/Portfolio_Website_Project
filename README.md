@@ -9,7 +9,7 @@ This project is a Personal Portfolio website for Andrew Godwin. It's aim is to c
 The website is of a single page architecture (SPA). A single parent page layed out in sections with each section acting as a page in same parent page. Sections are ordered according to our MVP user stories. The website is fully responsive and mobile friendly.
 
 ## Table of content
-1. [The Home page section](#The-home-page-section:)
+1. [The Home page section](#The-home-page-section)
 2. [About me section](#About-me-section:)
 3. [Resume section](#Resume-section:)
 4. [Portfolio of projects](#Portfolio-of-projects:)
@@ -21,7 +21,7 @@ The website is of a single page architecture (SPA). A single parent page layed o
 9. [Authors](#Authors)
 9. [Internet Presence](#Internet-Presence)
 
-### The home page section:
+### The home page section
 This is where users/visitors land when they first browse to the portfolio website at the registered domain name www.andrew-godwin.com  
 [![home.png](https://andrew-godwin/engine_room/images/home.png)
 
