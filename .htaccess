@@ -2,7 +2,7 @@ RewriteEngine On
 
 ############# http to https ##############
 RewriteCond %{SERVER_PORT} 80
-#RewriteRule ^(.*)$ https://www.andrew-godwin.com/$1 [R,L]
+RewriteRule ^(.*)$ https://www.andrew-godwin.com/$1 [R,L]
 
 # For .php & .html URL's:
 RewriteCond %{REQUEST_FILENAME} !-f
