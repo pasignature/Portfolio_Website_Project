@@ -1,26 +1,26 @@
-		<!-- BACK TO TOP BUTTON -->
-		<a class="back-to-top sweetthemes-is-visible sweetthemes-fade-out" href="#0">
-			<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
-		</a>
+<!-- BACK TO TOP BUTTON -->
+<a class="back-to-top sweetthemes-is-visible sweetthemes-fade-out" href="#0">
+<i class="fa fa-long-arrow-up" aria-hidden="true"></i>
+</a>
             
-    <!-- FOOTER -->
-        <footer class="footer1">
+<!-- FOOTER -->
+<footer class="footer1">
 
-        <!-- FOOTER TOP -->
-        <div class="row footer-top">
-            <div class="container">
-            <div class="row"><div class="col-md-12 footer-row-1"><div class="row">
-		<div class="col-md-4 sidebar-1"><aside id="sweetthemes_address_social_icons-3" class="widget vc_column_vc_container widget_sweetthemes_address_social_icons">
-        <div class="sidebar-social-networks address-social-links">
+<!-- FOOTER TOP -->
+<div class="row footer-top">
+<div class="container">
+<div class="row"><div class="col-md-12 footer-row-1"><div class="row">
+<div class="col-md-4 sidebar-1"><aside id="sweetthemes_address_social_icons-3" class="widget vc_column_vc_container widget_sweetthemes_address_social_icons">
+<div class="sidebar-social-networks address-social-links">
 
-                           <h1 class="widget-title">Contact Me</h1>
-            
+<h1 class="widget-title">Contact Me</h1>
 
-                                                <div class="contact-details">
-                                                    <p><i class="fa fa-phone" aria-hidden="true"></i>+216 5591 3043</p>
-                                                                            <p><i class="fa fa-envelope" aria-hidden="true"></i>message @t andrew-godwin.com</p>
-                                                                            <p><i class="fa fa-map-marker" aria-hidden="true"></i>Lac 1, Tunis.</p>
-                                            </div>
+
+<div class="contact-details">
+<p><i class="fa fa-phone" aria-hidden="true"></i>+216 5591 3043</p>
+<p><i class="fa fa-envelope" aria-hidden="true"></i>message @t andrew-godwin.com</p>
+<p><i class="fa fa-map-marker" aria-hidden="true"></i>Lac 1, Tunis.</p>
+</div>
                             
 
 		<ul class="social-links">
