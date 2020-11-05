@@ -1,0 +1,802 @@
+/*------------------------------------------------------------------
+[Navigation Styles Stylesheet]
+
+[Table of contents]
+
+1. Navigation General Styling
+2. navstyle-v1
+3. navstyle-v2
+4. navstyle-v3
+5. navstyle-v4
+6. navstyle-v5
+7. navstyle-v6
+8. navstyle-v7
+9. navstyle-v8
+
+-------------------------------------------------------------------*/
+
+
+
+/*---------------------------------------------*/
+/*--- 1. Navigation General Styling ---*/
+/*---------------------------------------------*/
+@media only screen and (max-width: 767px) {
+	.navstyle-v2 #navbar .menu > .menu-item > a::before, 
+	.navstyle-v2 #navbar .menu > .menu-item > a::after,
+	.navstyle-v3 #navbar .menu > .menu-item > a::before,
+	.navstyle-v3 #navbar .menu > .menu-item > a::after,
+    .navstyle-v4 #navbar .menu > .menu-item > a::after,
+	.navstyle-v8 #navbar .menu > .menu-item > a::before{
+        display: none;
+    }
+    body.header4 header .right-side-social-actions {
+        margin-top: 0;
+        padding-top: 0;
+    }
+    body.navstyle-v7.header2 #navbar .menu > .menu-item > a,
+    body.navstyle-v6.header2 #navbar .menu > .menu-item > a,
+	body.navstyle-v7 #navbar .menu > .menu-item > a,
+	body.navstyle-v6 #navbar .menu > .menu-item > a {
+	    margin: 0;
+	}
+    header #navbar .sub-menu .menu-item > a {
+        color: #fff !important;
+        line-height: 21px;
+        font-weight: 600 !important;
+    }
+	body.header2 header .right-side-social-actions{
+		display: none;
+	}
+    .header1 header #navbar .sub-menu .menu-item > a,
+	body.header4 header #navbar .sub-menu .menu-item > a{
+		color: #000000;
+	}
+    body.header3 .menu > .menu-item{
+        display: block;
+    }
+    body .navbar-header h1.logo {
+        float: left;
+    }
+    body.header3 header .right-side-social-actions{
+        display: none;
+    }
+    body.header3 header .navbar-toggle{
+        margin-top: 30px !important;
+    }
+
+
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+    .header1 .header-info-group {
+        overflow: hidden;
+    }
+    .header1 .header-info-icon {
+        display: none;
+    }
+    body .float-tablets-none{
+        float: left;
+    }
+    body.header4 header .right-side-social-actions{
+        border-left: 0 none;
+        margin-top: 0;
+    }
+    body.header3 #navbar .menu > .menu-item:first-child > a, 
+    body.header3 #navbar .menu > .menu-item > a {
+        padding: 8px 18px !important;
+    }
+    body.header3 #navbar .menu-item.mega1column > a::after, 
+    body.header3 #navbar .menu-item.mega2columns > a::after, 
+    body.header3 #navbar .menu-item.mega3columns > a::after, 
+    body.header3 #navbar .menu-item.menu-item-has-children > a::after {
+        top: 16% !important;
+    }
+    body.header2 .navbar-header {
+        z-index: 2;
+    }
+    body header.header2 .header-infos {
+        margin-top: 0;
+    }
+    body.header2 #navbar .menu > .menu-item:first-child > a, body.header2 #navbar .menu > .menu-item > a {
+        padding: 35px 13px !important;
+    }
+    body.header2 #navbar .menu-item.mega1column > a::after, 
+    body.header2 #navbar .menu-item.mega2columns > a::after, 
+    body.header2 #navbar .menu-item.mega3columns > a::after, 
+    body.header2 #navbar .menu-item.menu-item-has-children > a::after {
+        top: 22% !important;
+    }
+    body.header2 header .right-side-social-actions {
+        margin-top: 0;
+        padding: 10px 60px 30px;
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    body.header4 #navbar .menu-item.mega1column .sub-menu li > a::after, 
+    body.header4 #navbar .menu-item.mega2columns .sub-menu li > a::after, 
+    body.header4 #navbar .menu-item.mega3columns .sub-menu li > a::after, 
+    body.header4 #navbar .menu-item.menu-item-has-children .sub-menu li > a::after,
+    body.header2 #navbar .menu-item.mega1column .sub-menu li > a::after, 
+    body.header2 #navbar .menu-item.mega2columns .sub-menu li > a::after, 
+    body.header2 #navbar .menu-item.mega3columns .sub-menu li > a::after, 
+    body.header2 #navbar .menu-item.menu-item-has-children .sub-menu li > a::after,
+    body.header3 #navbar .menu-item.mega1column .sub-menu li > a::after, 
+    body.header3 #navbar .menu-item.mega2columns .sub-menu li > a::after, 
+    body.header3 #navbar .menu-item.mega3columns .sub-menu li > a::after, 
+    body.header3 #navbar .menu-item.menu-item-has-children .sub-menu li > a::after,
+    body.header1 #navbar .menu-item.mega1column .sub-menu li > a::after, 
+    body.header1 #navbar .menu-item.mega2columns .sub-menu li > a::after, 
+    body.header1 #navbar .menu-item.mega3columns .sub-menu li > a::after, 
+    body.header1 #navbar .menu-item.menu-item-has-children .sub-menu li > a::after{
+        top: 13px !important;
+    }
+    body.navstyle-v8 #navbar .menu > .menu-item > a::before,
+    body.navstyle-v4 #navbar .menu > .menu-item > a::after,
+    body.navstyle-v3 #navbar .menu > .menu-item > a::before, 
+    body.navstyle-v3 #navbar .menu > .menu-item > a::after,
+    body.navstyle-v2 #navbar .menu > .menu-item > a::before, 
+    body.navstyle-v2 #navbar .menu > .menu-item > a::after{
+        display: none;
+    }
+}
+@media only screen and (min-width: 1100px) {
+    .nav-submenu-style1 #navbar .sub-menu, 
+    .nav-submenu-style1 .navbar ul li ul.sub-menu{
+        padding: 0;
+    }
+    .nav-submenu-style1 #navbar .sub-menu .menu-item > a, 
+    .nav-submenu-style1 .navbar ul li ul.sub-menu .menu-item > a {
+        border-bottom: 1px solid rgba(128, 128, 128, 0.3);
+        padding: 12px 15px;
+    }
+    .nav-submenu-style1 #navbar .sub-menu .menu-item:last-child > a, 
+    .nav-submenu-style1 .navbar ul li ul.sub-menu .menu-item:last-child > a {
+        border-bottom: 0 none;
+    }
+    .nav-submenu-style1 #navbar .sub-menu .menu-item.selected > a, 
+    .nav-submenu-style1 #navbar .sub-menu .menu-item:hover > a{
+        color: #fff;
+        padding-left: 18px;
+    }
+}
+
+
+/*---------------------------------------------*/
+/*--- 2. navstyle-v1---*/
+/*---------------------------------------------*/
+/*Navstyle-v1 + header2*/
+.navstyle-v1.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v1.header2 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v1.header2 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v1.header2 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v1.header2 #navbar .menu-item.menu-item-has-children > a::after {
+    top: 22px;
+}
+/*Navstyle-v1 + header3*/
+.navstyle-v1.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v1.header3 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v1.header3 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v1.header3 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v1.header3 #navbar .menu-item.menu-item-has-children > a::after {
+    top: 22px;
+}
+.navstyle-v1 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+/*Navstyle-v1 + header4*/
+
+
+
+/*Navstyle-v1*/
+
+
+
+
+
+/*---------------------------------------------*/
+/*--- 3. navstyle-v2 ---*/
+/*---------------------------------------------*/
+/*Navstyle-v2 + header2*/
+.navstyle-v2.header2 #navbar .menu > .menu-item:first-child > a::before, 
+.navstyle-v2.header2 #navbar .menu > .menu-item:first-child > a::after {
+    left: 0;
+    width: calc(100% - 16px);
+}
+.navstyle-v2.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+}
+
+.navstyle-v2 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 16px;
+}
+.navstyle-v2 nav ul li:last-child a {
+    padding-right: 16px !important;
+}
+.navstyle-v2 #navbar .menu > .menu-item > a::before,
+.navstyle-v2 #navbar .menu > .menu-item > a::after {
+    width: calc(100% - 33px);
+    position: absolute;
+    left: 16.5px;
+    height: 2px;
+    content: "";
+    opacity: 0;
+}
+.navstyle-v2.header2 #navbar .menu > .menu-item:first-child > a{
+    padding-left: 0;
+}
+.navstyle-v2.header2 #navbar .menu > .menu-item > a {
+    padding: 20px 15px;
+}
+/*Navstyle-v2 + header3*/
+.navstyle-v2 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v2.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+}
+
+.navstyle-v2 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 16px;
+}
+.navstyle-v2 nav ul li:last-child a {
+    padding-right: 16px !important;
+}
+.navstyle-v2.header3 #navbar .menu > .menu-item > a::before,
+.navstyle-v2.header3 #navbar .menu > .menu-item > a::after {
+    width: calc(100% - 33px);
+    position: absolute;
+    left: 16.5px;
+    height: 2px;
+    content: "";
+    opacity: 0;
+}
+.navstyle-v2.header3 #navbar .menu > .menu-item > a {
+    padding: 20px 15px;
+}
+/*Navstyle-v2 + header4*/
+
+
+
+/*Navstyle-v2*/
+.navstyle-v2 #navbar .menu > .menu-item > a {
+    color: #22293a;
+    font-size: 13px;
+    padding: 29px 16px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.navstyle-v2 #navbar .menu > .menu-item > a::before {
+    top: 45%;
+    bottom: auto;
+    transition: all 250ms ease-in-out;
+}
+.navstyle-v2 #navbar .menu > .menu-item > a::after {
+    bottom: 45%;
+    top: auto;
+    transition: all 250ms ease-in-out;
+}
+.navstyle-v2 #navbar .menu > .menu-item.current_page_item > a::before,
+.navstyle-v2 #navbar .menu > .menu-item.current-menu-item > a::before,
+.navstyle-v2 #navbar .menu > .menu-item:hover > a::before {
+    top: 32%;
+    bottom: auto;
+    opacity: 1;
+}
+.navstyle-v2 #navbar .menu > .menu-item.current_page_item > a::after,
+.navstyle-v2 #navbar .menu > .menu-item.current-menu-item > a::after,
+.navstyle-v2 #navbar .menu > .menu-item:hover > a::after {
+    bottom: 32%;
+    top: auto;
+    opacity: 1;
+}
+
+
+/*---------------------------------------------*/
+/*--- 4. navstyle-v3 ---*/
+/*---------------------------------------------*/
+/*Navstyle-v3 + header2*/
+.navstyle-v3.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v3.header2 #navbar .menu > .menu-item > a::before, 
+.navstyle-v3.header2 #navbar .menu > .menu-item > a::after{
+    bottom: 29%;
+}
+.navstyle-v3.header2 #navbar .menu > .menu-item.current_page_item:first-child > a::before, 
+.navstyle-v3.header2 #navbar .menu > .menu-item.current-menu-item:first-child > a::before, 
+.navstyle-v3.header2 #navbar .menu > .menu-item:first-child:hover > a::before{
+    left: -7px;
+}
+.navstyle-v3.header2 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+/*Navstyle-v3 + header3*/
+.navstyle-v3 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v3.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v3.header3 #navbar .menu > .menu-item > a::before, 
+.navstyle-v3.header3 #navbar .menu > .menu-item > a::after{
+    bottom: 29%;
+}
+.navstyle-v3.header3 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+
+/*Navstyle-v3 + header4*/
+
+
+/*Navstyle-v3*/
+.navstyle-v3.header2 #navbar .menu > .menu-item:first-child > a{
+    padding-left: 0;
+}
+.navstyle-v3 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 16px;
+}
+.navstyle-v3 nav ul li:last-child a {
+    padding-right: 16px !important;
+}
+.navstyle-v3 #navbar .menu > .menu-item > a::before, 
+.navstyle-v3 #navbar .menu > .menu-item > a::after {
+    bottom: 35%;
+    font-family: inherit;
+    font-size: 15px;
+    opacity: 0;
+    position: absolute;
+    top: auto;
+}
+.navstyle-v3 #navbar .menu > .menu-item > a {
+    color: #22293a;
+    font-size: 13px;
+    padding: 29px 16px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.navstyle-v3 #navbar .menu > .menu-item > a::before {
+    content: "[";
+    left: 15px;
+    transition: all 250ms ease-in-out;
+}
+.navstyle-v3 #navbar .menu > .menu-item > a::after {
+    content: "]";
+    right: 15px;
+    transition: all 250ms ease-in-out;
+}
+.navstyle-v3 #navbar .menu > .menu-item.current_page_item > a::before,
+.navstyle-v3 #navbar .menu > .menu-item.current-menu-item > a::before,
+.navstyle-v3 #navbar .menu > .menu-item:hover > a::before {
+    left: 8px;
+    opacity: 1;
+}
+.navstyle-v3 #navbar .menu > .menu-item.current_page_item > a::after,
+.navstyle-v3 #navbar .menu > .menu-item.current-menu-item > a::after,
+.navstyle-v3 #navbar .menu > .menu-item:hover > a::after {
+    right: 8px;
+    opacity: 1;
+}
+
+
+
+
+
+/*---------------------------------------------*/
+/*--- 5. navstyle-v4 ---*/
+/*---------------------------------------------*/
+/*Navstyle-v4 + header2*/
+.navstyle-v4.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v4.header2 #navbar .menu > .menu-item > a::before, 
+.navstyle-v4.header2 #navbar .menu > .menu-item > a::after{
+    bottom: 29%;
+}
+.navstyle-v4.header2 #navbar .menu > .menu-item:first-child > a{
+    padding-left: 0;
+}
+.navstyle-v4.header2 #navbar .menu > .menu-item.current_page_item:first-child > a::before, 
+.navstyle-v4.header2 #navbar .menu > .menu-item.current-menu-item:first-child > a::before, 
+.navstyle-v4.header2 #navbar .menu > .menu-item:first-child:hover > a::before{
+    left: -7px;
+}
+.navstyle-v4.header2 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v4.header2 #navbar .menu > .menu-item > a::after{
+    color: #fff;
+}
+/*Navstyle-v4 + header3*/
+.navstyle-v4 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v4.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v4.header3 #navbar .menu > .menu-item > a::before, 
+.navstyle-v4.header3 #navbar .menu > .menu-item > a::after{
+    bottom: 29%;
+}
+.navstyle-v4.header3 #navbar .menu > .menu-item:first-child > a{
+    padding-left: 0;
+}
+.navstyle-v4.header3 #navbar .menu > .menu-item.current_page_item:first-child > a::before, 
+.navstyle-v4.header3 #navbar .menu > .menu-item.current-menu-item:first-child > a::before, 
+.navstyle-v4.header3 #navbar .menu > .menu-item:first-child:hover > a::before{
+    left: -7px;
+}
+.navstyle-v4.header3 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v4.header3 #navbar .menu > .menu-item > a::after{
+    color: #fff;
+}
+
+/*Navstyle-v4 + header4*/
+
+
+/*Navstyle-v4*/
+.navstyle-v4 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 18px;
+}
+.navstyle-v4 nav ul li:last-child a {
+    padding-right: 18px !important;
+}
+.navstyle-v4 #navbar .menu > .menu-item > a::after {
+    bottom: 33%;
+    color: #000000;
+    content: "???";
+    opacity: 1;
+    position: absolute;
+    right: -2px;
+    top: auto;
+    transition: all 250ms ease-in-out 0s;
+    font-family: inherit;
+    font-size: 15px;
+    opacity: 0.5;
+}
+.navstyle-v4 #navbar .menu > .menu-item > a {
+    color: #22293a;
+    font-size: 13px;
+    padding: 29px 18px;
+    line-height: 30px;
+    text-transform: uppercase;
+}
+.navstyle-v4 #navbar .menu > .menu-item:last-child > a::after {
+    display: none;
+}
+
+
+
+/*---------------------------------------------*/
+/*--- 6. navstyle-v5 ---*/
+/*---------------------------------------------*/
+/*Navstyle-v5 + header2*/
+.navstyle-v5.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v5.header2 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v5.header2 #navbar .menu > .menu-item > a::after{
+    color: #fff;
+}
+.navstyle-v5.header2 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v5.header2 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v5.header2 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v5.header2 #navbar .menu-item.menu-item-has-children > a::after {
+    right: 8px;
+    top: 22px;
+}
+/*Navstyle-v5 + header3*/
+.navstyle-v5 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v5.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v5.header3 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v5.header3 #navbar .menu > .menu-item > a::after{
+    color: #fff;
+}
+.navstyle-v5.header3 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v5.header3 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v5.header3 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v5.header3 #navbar .menu-item.menu-item-has-children > a::after {
+    right: 8px;
+    top: 22px;
+}
+
+/*Navstyle-v5 + header4*/
+
+
+/*Navstyle-v5*/
+.navstyle-v5 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 18px;
+}
+.navstyle-v5 nav ul li:last-child a {
+    padding-right: 18px !important;
+}
+.navstyle-v5 #navbar .menu > .menu-item > a {
+    padding: 30px 18px;
+}
+.navstyle-v5 #navbar .menu > .menu-item.current_page_item > a,
+.navstyle-v5 #navbar .menu > .menu-item.current-menu-item > a,
+.navstyle-v5 #navbar .menu > .menu-item:hover > a{
+    color: #fff;
+}
+.navstyle-v5 #sweetthemes-main-head{
+    border: 0 none;
+}
+.navstyle-v5 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v5 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v5 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v5 #navbar .menu-item.menu-item-has-children > a::after {
+    font-size: 6px;
+    right: 10px;
+}
+
+
+
+
+/*---------------------------------------------*/
+/*--- 7. navstyle-v6 ---*/
+/*---------------------------------------------*/
+/*Navstyle-v6 + header2*/
+.navstyle-v6.header2 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v6.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 15px 0;
+}
+/*Navstyle-v6 + header3*/
+.navstyle-v6 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v6.header3 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v6.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 15px 0;
+}
+
+/*Navstyle-v6 + header4*/
+
+
+
+/*Navstyle-v6*/
+.navstyle-v6 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 18px;
+}
+.navstyle-v6 nav ul li:last-child a {
+    padding-right: 18px !important;
+}
+.navstyle-v6 #navbar .menu > .menu-item > a {
+    margin: 21px 0;
+    padding: 8px 18px;
+}
+.navstyle-v6 #navbar .menu > .menu-item.current_page_item > a,
+.navstyle-v6 #navbar .menu > .menu-item.current-menu-item > a,
+.navstyle-v6 #navbar .menu > .menu-item:hover > a{
+    color: #fff;
+}
+.navstyle-v6 #sweetthemes-main-head{
+    border: 0 none;
+}
+.navstyle-v6 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v6 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v6 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v6 #navbar .menu-item.menu-item-has-children > a::after {
+    font-size: 6px;
+    right: 10px;
+    top: 9px;
+}
+
+
+/*---------------------------------------------*/
+/*--- 8. navstyle-v7 ---*/
+/*---------------------------------------------*/
+/*Navstyle-v7 + header2*/
+.navstyle-v7.header2 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v7.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 15px 0;
+}
+/*Navstyle-v7 + header3*/
+.navstyle-v7 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v7.header3 .menu.nav-effect.nav-menu.pull-right {
+    float: left !important;
+}
+.navstyle-v7.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 15px 3px;
+}
+
+/*Navstyle-v7 + header4*/
+
+
+
+/*Navstyle-v7*/
+.navstyle-v7 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 18px;
+}
+.navstyle-v7 nav ul li:last-child a {
+    padding-right: 18px !important;
+}
+.navstyle-v7 #navbar .menu > .menu-item > a {
+    margin: 29px 0;
+    padding: 0 18px;
+}
+.navstyle-v7 #navbar .menu > .menu-item.current_page_item > a,
+.navstyle-v7 #navbar .menu > .menu-item.current-menu-item > a,
+.navstyle-v7 #navbar .menu > .menu-item:hover > a{
+    border-radius: 30px;
+    color: #ffffff;
+}
+.navstyle-v7 #navbar .sub-menu, .navstyle-v7 .navbar ul li ul.sub-menu {
+    border-radius: 20px;
+    margin-top: 5px;
+    padding: 15px;
+}
+.navstyle-v7 #navbar .menu > .menu-item .sub-menu > .menu-item:last-child > a {
+    margin-bottom: 0;
+}
+.navstyle-v7 #navbar .menu > .menu-item .sub-menu > .menu-item > a {
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding: 0 13px;
+}
+.navstyle-v7 #navbar .menu > .menu-item .sub-menu > .menu-item > a:hover {
+    border-radius: 20px;
+    color: #ffffff;
+}
+.navstyle-v7 #sweetthemes-main-head{
+    border: 0 none;
+}
+.navstyle-v7 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v7 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v7 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v7 #navbar .menu-item.menu-item-has-children > a::after {
+    font-size: 6px;
+    right: 10px;
+    top: 1px;
+}
+.navstyle-v7 #navbar .menu > .menu-item {
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+/*---------------------------------------------*/
+/*--- 2. navstyle-v8---*/
+/*---------------------------------------------*/
+/*Navstyle-v8 + header2*/
+.navstyle-v8.header2 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v8.header2 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v8.header2 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v8.header2 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v8.header2 #navbar .menu-item.menu-item-has-children > a::after {
+    top: 22px;
+}
+.navstyle-v8.header2 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 0;
+}
+.navstyle-v8.header2 #navbar .menu > .menu-item > a::before {
+    bottom: 22px;
+    left: 15px;
+}
+.navstyle-v8.header2 #navbar .menu > .menu-item:first-child > a::before {
+    left: 0;
+}
+.navstyle-v8.header2 #navbar .menu > .menu-item:first-child:hover > a::before {
+    width: calc(100% - 16px);
+}
+.navstyle-v8.header2 #navbar .menu > .menu-item:last-child:hover > a::before {
+    width: calc(100% - 32px);
+}
+.navstyle-v8.header2 #navbar .menu > .menu-item:hover > a::before {
+    width: calc(100% - 31px);
+}
+/*Navstyle-v8 + header3*/
+.navstyle-v8.header3 #navbar .menu > .menu-item > a {
+    color: #ffffff;
+    margin: 0;
+    padding: 20px 15px;
+}
+.navstyle-v8.header3 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 0;
+}
+.navstyle-v8.header3 #navbar .menu-item.mega1column > a::after, 
+.navstyle-v8.header3 #navbar .menu-item.mega2columns > a::after, 
+.navstyle-v8.header3 #navbar .menu-item.mega3columns > a::after, 
+.navstyle-v8.header3 #navbar .menu-item.menu-item-has-children > a::after {
+    top: 22px;
+}
+.navstyle-v8 .header3 #navbar .menu {
+    float: none;
+    margin: 0 !important;
+}
+.navstyle-v8.header3 #navbar .menu > .menu-item > a::before {
+    bottom: 22px;
+    left: 15px;
+}
+.navstyle-v8.header3 #navbar .menu > .menu-item:first-child > a::before {
+    left: 0;
+}
+.navstyle-v8.header3 #navbar .menu > .menu-item:first-child:hover > a::before {
+    width: calc(100% - 16px);
+}
+.navstyle-v8.header3 #navbar .menu > .menu-item:last-child:hover > a::before {
+    width: calc(100% - 32px);
+}
+.navstyle-v8.header3 #navbar .menu > .menu-item:hover > a::before {
+    width: calc(100% - 31px);
+}
+/*Navstyle-v8 + header4*/
+
+
+
+/*Navstyle-v8*/
+.navstyle-v8 nav ul li:last-child a {
+    padding-right: 18px !important;
+}
+.navstyle-v8 #navbar .menu > .menu-item:hover > a::before {
+    width: calc(100% - 37px);
+}
+.navstyle-v8 #navbar .menu > .menu-item > a::before {
+    bottom: 27px;
+    content: "";
+    height: 3px;
+    left: 18.5px;
+    position: absolute;
+    width: 15px;
+    transition: all 250ms ease-in-out;
+}
+.navstyle-v8 #navbar .menu > .menu-item:first-child > a {
+    padding-left: 18px;
+}
