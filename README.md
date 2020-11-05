@@ -9,45 +9,45 @@ This project is a Personal Portfolio website for Andrew Godwin. It's aim is to c
 The website is of a single page architecture (SPA). A single parent page layed out in sections with each section acting as a page in same parent page. Sections are ordered according to our MVP user stories. The website is fully responsive and mobile friendly.
 
 ## Table of content
-1. [The Home page/section](#The home page/section:)
-2. [About me section/page](#About me section:)
-3. [Resume section/page](#Resume section:)
-4. [Portfolio of projects](#Portfolio of projects:)
-5. [Areas of expertise](#Areas of expertise:)
-6. [Blogs Section](#Blogs section:)
-7. [A "contact me" section](#The "contact me" section:)
+1. [The Home page section](#The-home-page-section:)
+2. [About me section](#About-me-section:)
+3. [Resume section](#Resume-section:)
+4. [Portfolio of projects](#Portfolio-of-projects:)
+5. [Areas of expertise](#Areas-of-expertise:)
+6. [Blogs Section](#Blogs-section:)
+7. [A "contact me" section](#The-contact-me-section:)
 8. [License](#License)
 9. [Links](#Links)
 9. [Authors](#Authors)
-9. [Internet Presence](#Internet Presence)
+9. [Internet Presence](#Internet-Presence)
 
-### The home page/section:
+### The home page section:
 This is where users/visitors land when they first browse to the portfolio website at the registered domain name www.andrew-godwin.com  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/home.png)
+[![home.png](https://andrew-godwin/engine_room/images/home.png)
 
 ### About me section:
 This section contains a brief but detailed introduction about me; who I am, what I do and what  I can offer.  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/about.png)
+[![about.png](https://andrew-godwin/engine_room/images/about.png)
 
 ### Resume section:
 This area showcases my resume for site visitors to peruse and find out more details about me, what I have done, been doing and doing currently.  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/resume.png)
+[![resume.png](https://andrew-godwin/engine_room/images/resume.png)
 
 ### Portfolio of projects:
 This section showcases porjects that I have been involved in the past and things I am doing presently.  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/portfolio.png)
+[![portfolio.png](https://andrew-godwin/engine_room/images/portfolio.png)
 
 ### Areas of expertise:
 A snapshot insight at a glance of areas I am good at.  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/aoe.png)
+[![aoe.png](https://andrew-godwin/engine_room/images/aoe.png)
 
 ### Blogs section:
 This section features a kind of symbolic-links to different industry-related blog posts I create with my free and spare times.  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/blog.png)
+[![blog.png](https://andrew-godwin/engine_room/images/blog.png)
 
-### The "contact me" section:
+### The contact me section:
 This is where site users or visitors can get in contact with me for any type of engagements.  
-[![portfolio-project2-spa.png](https://andrew-godwin/engine_room/images/contact.png)
+[![contact.png](https://andrew-godwin/engine_room/images/contact.png)
 
 ### License
 This project is licensed under the MIT license.
