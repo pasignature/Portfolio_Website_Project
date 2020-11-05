@@ -1,0 +1,15 @@
+RewriteEngine On
+
+############# http to https ##############
+RewriteCond %{SERVER_PORT} 80
+#RewriteRule ^(.*)$ https://www.andrew-godwin.com/$1 [R,L]
+
+# For .php & .html URL's:
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+# hide id variable in the article URL:
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule ^blog/(.*)$ blog/index.php?id=$1 [NC]
