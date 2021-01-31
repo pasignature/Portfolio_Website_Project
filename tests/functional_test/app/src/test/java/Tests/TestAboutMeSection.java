@@ -20,7 +20,6 @@ public class TestAboutMeSection {
 	public void setUp(){
 		driver = TestBase.getBrowserDriver();
 		testURL = TestBase.TestURL();
-		introText = HomeSection.getIntroText();
 	}
 
 	@Test
