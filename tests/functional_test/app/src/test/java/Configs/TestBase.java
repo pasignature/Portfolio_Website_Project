@@ -42,7 +42,7 @@ public class TestBase {
 	}
 
 	public static String TestURL(){
-		return "https://andrew-godwin.com/";
+		return "https://www.andrew-godwin.com/";
 	}
 
 	public static String HomeSectionAssertString(){
