@@ -62,7 +62,7 @@ This project is licensed under the MIT license.
 
 ### Internet Presence
 Github Profile: https://www.andrew-godwin.com/pasignature  
-Linkedin Profile: https://www.linkedin.com/in/andrew-godwin-me/  
+Linkedin Profile: https://www.linkedin.com/in/pasignature/  
 StackOverflow Profile: https://stackoverflow.com/users/5160455/pasignature  
 Twitter Profile: https://twitter.com/pasignature  
 Facebook Profile: https://facebook.com/pasignature  

@@ -124,7 +124,7 @@ Check out my <a target="_blank" href="blog/13-what-is-post-mortem-incident-repor
 We are ever closer than you think. Please feel absolutely and totally free to get in touch with me through any medium that is most convenient and comfortable for you.<br />
 <a target="_blank" href="https://www.facebook.com/pasignature/"><i class="fa fa-facebook"></i>acebook</a>, 
 <a target="_blank" href="https://twitter.com/pasignature/">Twitter<i class="fa fa-twitter"></i></a>, 
-<a target="_blank" href="https://www.linkedin.com/in/andrew-godwin-me">Linked<i class="fa fa-linkedin"></i></a>, 
+<a target="_blank" href="https://www.linkedin.com/in/pasignature">Linked<i class="fa fa-linkedin"></i></a>, 
 <a target="_blank" href="https://skype.com/pasignature/"><i class="fa fa-skype"></i>kype</a>, 
 Zoom, 
 <a href="mailto:?subject=Nice&nspto meet you&amp;body=Hi Andrew" title="Send email to Andrew">email<i class="fa fa-envelope"></i></a>, 
@@ -167,7 +167,7 @@ I felt this is a great opportunity for me to create a professional and creative 
 
 <p class="section-description wow fadeInDown dark_description">
 Find Andrew Godwin on 
-<a target="_blank" href="https://www.linkedin.com/in/andrew-godwin-me">Linked<i class="fa fa-linkedin"></i></a>,
+<a target="_blank" href="https://www.linkedin.com/in/pasignature">Linked<i class="fa fa-linkedin"></i></a>,
 <a target="_blank" href="https://twitter.com/pasignature/">Twitter<i class="fa fa-twitter"></i></a>,
 <a target="_blank" href="https://github.com/pasignature/">Github<i class="fa fa-github"></i></a>
 </p>
