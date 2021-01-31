@@ -14,13 +14,11 @@ public class TestHomeSection {
 
 	private WebDriver driver;
 	private String testURL;
-	private String introText;
 
 	@BeforeTest
 	public void setUp(){
 		driver = TestBase.getBrowserDriver();
 		testURL = TestBase.TestURL();
-		introText = HomeSection.getIntroText();
 	}
 
 	@Test
@@ -28,13 +26,16 @@ public class TestHomeSection {
 
 		driver.get(testURL);
 
+		HomeSection intro = new HomeSection(driver);
+		String introText = intro.getIntroText();
+
 		// Verifying Home Section is loading fine
 		assertEquals(TestBase.HomeSectionAssertString(), introText);
 	}
 
 	@AfterTest
 	public void tearDown(){
-		driver.close();
+		driver.quit();
 	}
 
 }
