@@ -17,7 +17,7 @@
             
 
 <div class="contact-details">
-<p><i class="fa fa-phone" aria-hidden="true"></i>+216 5591 3043</p>
+<p><i class="fa fa-phone" aria-hidden="true"></i>+216 55 91 3043</p>
 <p><i class="fa fa-envelope" aria-hidden="true"></i>message @t andrew-godwin.com</p>
 <p><i class="fa fa-map-marker" aria-hidden="true"></i>Lac 1, Tunis.</p>
 </div>
@@ -26,7 +26,7 @@
 		<ul class="social-links">
 		<li><a target="_blank" href="https://stackoverflow.com/users/5160455/pasignature?tab=profile/"><i class="fa fa-stack-overflow"></i></a></li>
 		<li><a target="_blank" href="https://github.com/pasignature/"><i class="fa fa-github"></i></a></li>
-		<li><a target="_blank" href="https://www.linkedin.com/in/andrew-godwin-me"><i class="fa fa-linkedin"></i></a></li>
+		<li><a target="_blank" href="https://www.linkedin.com/in/pasignature"><i class="fa fa-linkedin"></i></a></li>
 		<li><a target="_blank" href="https://www.facebook.com/pasignature/"><i class="fa fa-facebook"></i></a></li>
 		<li><a target="_blank" href="https://twitter.com/pasignature/"><i class="fa fa-twitter"></i></a></li>
 		</ul>
