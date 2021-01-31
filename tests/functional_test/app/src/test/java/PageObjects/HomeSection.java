@@ -13,7 +13,6 @@ public class HomeSection {
 	static By introText = By.xpath("//h1[@class='vc_custom_heading vc_custom_1542126455341']");
 	By userNameTextBox = By.id("email");
 	By passwordTextBox = By.id("pass");
-	By loginButton = By.name("login");
 
 	/**
 	 * parameterized constructor to initialize instance variables
