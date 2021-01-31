@@ -1,0 +1,25 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'org.jetbrains:annotations-java5:15.0'
+
+    // https://mvnrepository.com/artifact/org.testng/testng
+    testImplementation group: 'org.testng', name: 'testng', version: '7.1.0'
+
+    // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
+
+    // https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+    implementation group: 'org.apache.poi', name: 'poi-ooxml', version: '5.0.0'
+
+}
+
+test{
+    useTestNG(){
+        suites 'testng.xml'
+    }
+}
