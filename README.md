@@ -50,7 +50,7 @@ This is where site users or visitors can get in contact with me for any type of 
 ![contact](https://www.andrew-godwin.com/engine_room/images/contact.png)
 
 ### License
-This project is licensed under the MIT license.
+This project is licensed under the MIT license
 
 ### Links
 1. Deployed Website Link: https://www.andrew-godwin.com/  
