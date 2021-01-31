@@ -50,7 +50,7 @@ This is where site users or visitors can get in contact with me for any type of 
 ![contact](https://www.andrew-godwin.com/engine_room/images/contact.png)
 
 ### License
-This project is licensed under the MIT license.
+This project is licensed under the MIT license
 
 ### Links
 1. Deployed Website Link: https://www.andrew-godwin.com/  
@@ -62,7 +62,7 @@ This project is licensed under the MIT license.
 
 ### Internet Presence
 Github Profile: https://www.andrew-godwin.com/pasignature  
-Linkedin Profile: https://www.linkedin.com/in/andrew-godwin-me/  
+Linkedin Profile: https://www.linkedin.com/in/pasignature/  
 StackOverflow Profile: https://stackoverflow.com/users/5160455/pasignature  
 Twitter Profile: https://twitter.com/pasignature  
 Facebook Profile: https://facebook.com/pasignature  
