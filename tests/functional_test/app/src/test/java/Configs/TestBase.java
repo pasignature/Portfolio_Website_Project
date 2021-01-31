@@ -41,13 +41,13 @@ public class TestBase {
 		return new ExcelSheetUtil("TestData/data.xlsx");
 	}
 
-	public static String FacebookTestURL(){
+	public static String TestURL(){
 		return "https://andrew-godwin.com/";
 	}
 
-	public static String WalletHubReviewAssertString(){
+	public static String HomeSectionAssertString(){
 
-		return "Test Insurance Company offers few bells and whistles";
+		return "Hi, my name is Andrew Godwin.";
 	}
 
 }
