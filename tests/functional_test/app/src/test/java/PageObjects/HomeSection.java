@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import Utils.ScreenshotUtil;
+
 public class HomeSection {
 
 	WebDriver driver;
@@ -29,6 +31,8 @@ public class HomeSection {
 	public String getIntroText(){
 		wait.until(webDriver -> ExpectedConditions
 			.visibilityOfElementLocated(introText).apply(webDriver));
+
+		ScreenshotUtil.grabScreen(driver);
 
 		return driver.findElement(introText).getText();
 	}
