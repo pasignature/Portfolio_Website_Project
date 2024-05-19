@@ -80,7 +80,7 @@ Technical Support.
 
 <p id="portfolio"></p>
 		
-		<a target="_blank" href="https://drive.google.com/file/d/18OTORLjATVmZyGkyYWxsU1QKZ8hpmBi4/view?usp=sharing">
+		<a target="_blank" href="https://www.andrew-godwin.com/downloads/Resume-Andrew-Godwin.pdf">
 		<button type="submit" style="width: auto;
 		border: 0;
 		background: #6022ea;
