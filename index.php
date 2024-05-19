@@ -21,7 +21,7 @@ I do software development - testing - technical support and more...</h6><div cla
 <p class="section-description wow fadeInUp dark_description">Ideally, I have the engineering flavour of a software developer; the quality mindset of a QA engineer and the empathy of a Support Specialist. I am passionate about software engineering, testing and support.
 </p>
 <p class="section-description wow fadeInDown dark_description">
-As a Software Developer, I love writing codes to solve problems and have done so for over 3,000 hours in the past six years.
+As a Software Developer, I love writing codes to solve problems and have done so for over 6,000 hours in the past 12 years.
 </p>
 <p class="section-description wow fadeInDown dark_description">
 Finding bugs, for me as a Software Tester, is fun and I love using automated software testing tools to automate repetitive testable use cases, providing detailed reproducible steps and performing scheduled regression/sanity tests.
