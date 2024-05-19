@@ -162,9 +162,9 @@ src: url('../engine_room/fonts/MerriweatherRegular.ttf');
 							<div class="sidebar-social-networks address-social-links">
 								<h1 class="widget-title">Contact Me</h1>
 								<div class="contact-details">
-									<p><i class="fa fa-phone" aria-hidden="true"></i>+216 5591 3043</p>
+									<p><i class="fa fa-phone" aria-hidden="true"></i>+34 722460710</p>
 									<p><i class="fa fa-envelope" aria-hidden="true"></i>message @t andrew-godwin.com</p>
-									<p><i class="fa fa-map-marker" aria-hidden="true"></i>Lac 1, Tunis.</p>
+									<p><i class="fa fa-map-marker" aria-hidden="true"></i>Avd. Bruselas, Alcobendas, Madrid</p>
 								</div>
 								<ul class="social-links">
 									<li><a target="_blank" href="https://stackoverflow.com/users/5160455/pasignature?tab=profile/"><i class="fa fa-stack-overflow"></i></a></li>
@@ -254,7 +254,7 @@ src: url('../engine_room/fonts/MerriweatherRegular.ttf');
 
       <div class="col-md-4 right-side-social-actions">
         <div class="phone-menu">
-          <a href="tel:+216 5591 3043">+216 5591 3043</a>
+          <a href="tel:+34 722460710">+34 722460710</a>
         </div>
        <!-- ACTIONS BUTTONS GROUP -->
         <div class="pull-right actions-group">

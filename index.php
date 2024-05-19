@@ -18,7 +18,7 @@ I do software development - testing - technical support and more...</h6><div cla
 
 <div class="vc_row wpb_row vc_row-fluid vc_custom_1542127766367"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="title-subtile-holder text-center">
 <h6 class="section-title wow fadeInUp dark_title"></h6><h1 class="section-subtitle wow fadeInUp dark_subtitle">About Me</h1>
-<p class="section-description wow fadeInUp dark_description">Ideally, I have the engineering flavor of a software developer; the quality mindset of a QA engineer and the empathy of a Support Specialist. I am passionate about software engineering, testing and support.
+<p class="section-description wow fadeInUp dark_description">Ideally, I have the engineering flavour of a software developer; the quality mindset of a QA engineer and the empathy of a Support Specialist. I am passionate about software engineering, testing and support.
 </p>
 <p class="section-description wow fadeInDown dark_description">
 As a Software Developer, I love writing codes to solve problems and have done so for over 3,000 hours in the past six years.
@@ -27,7 +27,7 @@ As a Software Developer, I love writing codes to solve problems and have done so
 Finding bugs, for me as a Software Tester, is fun and I love using automated software testing tools to automate repetitive testable use cases, providing detailed reproducible steps and performing scheduled regression/sanity tests.
 </p>
 <p class="section-description wow fadeInUp dark_description">
-And as a Google trained professional IT Support Specialist; I analyze systems, debugging, troubleshooting and providing technical support & documentation to end users, my team and business managers.
+And as a Google trained professional IT Supporrt Specialist; I analyze systems, debugging, troubleshooting and providing technical support & documentation to end users, my team and business managers.
 </p>
 <p class="section-description wow fadeInDown dark_description">
 My typical clients include small businesses and startups, corporations, non-profit organizations and private agencies.
@@ -80,7 +80,7 @@ Technical Support.
 
 <p id="portfolio"></p>
 		
-		<a target="_blank" href="https://drive.google.com/file/d/1GpCQODLD7Gi6ijqdkQMJY9uFRvWbXSGn/view?usp=sharing">
+		<a target="_blank" href="https://drive.google.com/file/d/18OTORLjATVmZyGkyYWxsU1QKZ8hpmBi4/view?usp=sharing">
 		<button type="submit" style="width: auto;
 		border: 0;
 		background: #6022ea;
@@ -360,7 +360,7 @@ Technical Support.
 
 	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1542129393156" >
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">Lac 1, Tunis.</p>
+			<p style="text-align: left;">Avd. Bruselas, Alcobendas, Madrid</p>
 
 		</div>
 	</div>
@@ -375,7 +375,7 @@ Technical Support.
 
 	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp vc_custom_1542129405089" >
 		<div class="wpb_wrapper">
-			<p style="text-align: left;">+216 5591 3043</p>
+			<p style="text-align: left;">+34 722460710</p>
 
 		</div>
 	</div>

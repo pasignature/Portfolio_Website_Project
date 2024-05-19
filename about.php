@@ -62,9 +62,9 @@ Personal Portfolio website for Andrew Godwin. This website creates a professiona
 <div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner vc_custom_1541546568643"><div class="wpb_wrapper"><h6 style="font-size: 20px;color: #000000;line-height: 30px;text-align: left" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp" >About Me / Resume:</h6>
 <p class="section-description wow fadeInDown dark_description">
 Feel free to read about me, my professional background, skill sets and peruse my up-to-date resume. It would mean the world to me if you wanted to <a href="index#contactme">[ Contact Me. ]</a>
-</p><p>
-We should see how I could come onboard and be one of the rockstar members of your team to help your organization beat those deadlines in a timely manner and achieve those business goals. Please view my <a href="https://drive.google.com/file/d/1GpCQODLD7Gi6ijqdkQMJY9uFRvWbXSGn/view?usp=sharing">[ Resume Here ]</a>
-</p>
+</p><!--<p>
+We should see how I could come onboard and be one of the rockstar members of your team to help your organization beat those deadlines in a timely manner and achieve those business goals. Please view my <a href="https://drive.google.com/file/d/18OTORLjATVmZyGkyYWxsU1QKZ8hpmBi4/view?usp=sharing">[ Resume Here ]</a>
+</p>-->
 
 </div></div></div></div>
 
@@ -128,7 +128,7 @@ We are ever closer than you think. Please feel absolutely and totally free to ge
 <a target="_blank" href="https://skype.com/pasignature/"><i class="fa fa-skype"></i>kype</a>, 
 Zoom, 
 <a href="mailto:?subject=Nice&nspto meet you&amp;body=Hi Andrew" title="Send email to Andrew">email<i class="fa fa-envelope"></i></a>, 
-<a href="tel:+216 5591 3043">direct phone call<i class="fa fa-phone"></i></a>
+<a href="tel:+34 722460710">direct phone call<i class="fa fa-phone"></i></a>
  or even 
 <a href="index#contactme">[ Web Form Here ]</a>
 </p>

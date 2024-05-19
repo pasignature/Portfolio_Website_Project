@@ -8,10 +8,8 @@ date_default_timezone_set('Africa/Lagos');
 //connect to database
 function dbconnect(){
 	//toggle database setup - production mode/development mode
-	$development = true;
-
-	$servername = "localhost"; $username = "dffsdf7f878f"; $password = "455555uuuuuu"; $dbname = "websitedb";
-
+	$development = false;
+	$servername = "localhost"; $username = "vikotr5_andrew_developerfldffsdf7f878f"; $password = "7cOdTiMC?@6"; $dbname = "vikotr5_myportfolio_websitedb";
 	if($development){
 	$servername = "localhost"; $username = "root"; $password = ""; $dbname = "myportfolio_websitedb";
 	}
