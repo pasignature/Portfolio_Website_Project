@@ -1,5 +1,5 @@
 <?php
-//error_reporting(0);
+error_reporting(0);
 
 //default error message, if everything else fails
 $responseText = "<strong style ='color:orange'>Sorry, we're fixing an error. Kindly check back later. Thanks.</strong>";
