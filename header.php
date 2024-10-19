@@ -27,6 +27,7 @@
 <link rel='stylesheet' id='animate-css'  href='engine_room/css/animate.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='niva-styles-css'  href='engine_room/css/styles.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='niva-style-css'  href='engine_room/css/style.css?ver=5.1.3' type='text/css' media='all' />
+<!-- Uncomment script to enable full intro display
 <style id='niva-style-inline-css' type='text/css'>
 
                 .pace-cover {
@@ -560,7 +561,7 @@
                 #navbar .menu > .menu-item > a::before {
                     background: #08b00e !important;
                 }
-</style>
+</style>-->
 <link rel='stylesheet' id='niva-blogloops-style-css'  href='engine_room/css/styles-module-blogloops.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='niva-navigations-style-css'  href='engine_room/css/styles-module-navigations.css?ver=5.1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='niva-header-style-css'  href='engine_room/css/styles-headers.css?ver=5.1.3' type='text/css' media='all' />
