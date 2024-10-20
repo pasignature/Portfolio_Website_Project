@@ -122,7 +122,6 @@ Check out my <a target="_blank" href="blog/13-what-is-post-mortem-incident-repor
 <div class="wpb_column vc_column_container vc_col-sm-1"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div><div class="wpb_column vc_column_container vc_col-sm-5"><div class="vc_column-inner vc_custom_1541546568643"><div class="wpb_wrapper"><h6 style="font-size: 20px;color: #000000;line-height: 30px;text-align: left" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp" >Contact:</h6>
 <p class="section-description wow fadeInDown dark_description">
 We are ever closer than you think. Please feel absolutely and totally free to get in touch with me through any medium that is most convenient and comfortable for you.<br />
-<a target="_blank" href="https://www.facebook.com/pasignature/"><i class="fa fa-facebook"></i>acebook</a>, 
 <a target="_blank" href="https://twitter.com/pasignature/">Twitter<i class="fa fa-twitter"></i></a>, 
 <a target="_blank" href="https://www.linkedin.com/in/pasignature">Linked<i class="fa fa-linkedin"></i></a>, 
 <a target="_blank" href="https://skype.com/pasignature/"><i class="fa fa-skype"></i>kype</a>, 

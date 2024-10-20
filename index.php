@@ -35,7 +35,6 @@ My typical clients include small businesses and startups, corporations, non-prof
 <p class="section-description wow fadeInDown dark_description">
 When I'm not working, I enjoy beach picnicking with family and friends. Or you find me volunteering, (with my spare time), at Blessed Fruit Foundation for widows and orphans. 
 </p>
-<div ><a href="about">Read More About This Website</a></div>
 </div></div></div></div></div>
 
 
@@ -80,7 +79,7 @@ Technical Support.
 
 <p id="portfolio"></p>
 		
-		<a target="_blank" href="https://www.andrew-godwin.com/downloads/Resume-Andrew-Godwin.pdf">
+		<a target="_blank" href="about.php">
 		<button type="submit" style="width: auto;
 		border: 0;
 		background: #6022ea;
@@ -93,7 +92,7 @@ Technical Support.
 		font-weight: 600;
 		position: relative;
 		overflow: hidden;
-		display: inline-block;">Click here to view up-to-date Resume
+		display: inline-block;">Read More About This Website
 		</button>
 		</a>
 
